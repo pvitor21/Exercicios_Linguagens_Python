@@ -1,5 +1,5 @@
 # Exercício 1
-"""num = int(input("Digite um numero inteiro: "))
+num = int(input("Digite um numero inteiro: "))
 if num % 2 == 0:
     print("O numero é par.")
 else:
@@ -34,7 +34,7 @@ if media >= 7:
 elif 5 <= media < 7:
     print("Recuperação.")
 else:
-    print("Reprovado.")"""
+    print("Reprovado.")
 
 # Exercício 5
 lado1 = int(input("Digite o primeiro lado do triângulo: "))
